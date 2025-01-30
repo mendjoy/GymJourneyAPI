@@ -1,13 +1,13 @@
-package io.github.mendjoy.gymJorneyAPI;
+package io.github.mendjoy.gymJourneyAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GymJorneyApiApplication {
+public class GymJourneyApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GymJorneyApiApplication.class, args);
+		SpringApplication.run(GymJourneyApiApplication.class, args);
 	}
 
 }
